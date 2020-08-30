@@ -1,0 +1,44 @@
+<package>
+	<id>io.teamboss.appshack</id>
+	<name>Apps Hack</name>
+	<version>3.0-1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common </package>
+	</dependencies>
+	<shortDescription>Apps Hack is new tool to hack more programs and games and store more than 300 hacks on this package.</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 11 to 13.</description>
+		<description>Supports A12/13.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia3.jpg</image>
+		</screenshot>	</screenshots>
+	<links>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/AmrLYKH</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
